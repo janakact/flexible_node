@@ -1,0 +1,19 @@
+{
+  "name": "flexible_node",
+  "version": "1.0.0",
+  "description": "A manageble web api. User can update or change the api during the run time through an admin panel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janakact/flexible_node.git"
+  },
+  "author": "Janaka Chathuranga",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/janakact/flexible_node/issues"
+  },
+  "homepage": "https://github.com/janakact/flexible_node#readme"
+}
